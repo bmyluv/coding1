@@ -1,2 +1,2 @@
 # coding1
-fiddling around in visual studious
+fiddling around in visual studios
